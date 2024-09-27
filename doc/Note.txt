@@ -1,0 +1,6 @@
+This folder contains a documentation of the RampIdentification project
+in the form of a publication preprint.
+This preprint is also available on researchgate.net at:
+https://www.researchgate.net/publication/374030490_Uncertainties_of_Ramp_Identification_in_100_Equidistant_Noisy_Data_Points
+Published on: 20Sep2023
+

@@ -1,0 +1,6 @@
+This folder contains the entire RampIdentification class.
+Latest version: 27Sep2024
+See also: Publication Preprint chapters 
+	5.4.4 	Usage of RI implemented as C++ class
+	7	Instruction for use
+
