@@ -1,11 +1,11 @@
 # RampIdentification
  Uncertainties of Ramp Identification in 100 Equidistant Noisy Data Points
 
-Date: 20Sep2023
-Author: Sebastian Repetzki
-Kind of Project: Research project in statistics and signal processing.
-Project report: see Preprint
-Code language: C++
+Date: 20Sep2023. 
+Author: Sebastian Repetzki. 
+Kind of Project: Research project in statistics and signal processing. 
+Project report: see Preprint.
+Code language: C++.
 
 Description: A real-time process that provides data in regular intervals 
 			is expected to show a constant, though noisy signal that, 
